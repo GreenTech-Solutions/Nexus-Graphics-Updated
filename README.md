@@ -9,7 +9,7 @@ Graphics for [Nexus-Updated](https://github.com/GreenTech-Solutions/Nexus-Update
 comes as a dependency of Nexus-Updated.
 
 This repository holds the `Nexus-Graphics` folder of the upstream repository with its history
-(`git subtree split --prefix=Nexus-Graphics`); `main` up to the tag `v0.0.8` is upstream as it is.
+(`git subtree split --prefix=Nexus-Graphics`); `master` up to the tag `v0.0.8` is upstream as it is.
 
 ## Credits
 
