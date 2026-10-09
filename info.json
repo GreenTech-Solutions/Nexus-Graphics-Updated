@@ -1,10 +1,11 @@
 {
-  "name": "Nexus-Graphics",
+  "name": "Nexus-Graphics-Updated",
   "version": "0.0.8",
-  "title": "Nexus Extended Promethium Endgame Graphics",
-  "author": "Karu_Kiruna",
-  "dependencies": [ "base >= 2.0.0","space-age" ],
+  "title": "Nexus Extended Promethium Endgame Graphics (2.1)",
+  "author": "Karu_Kiruna, updated by Alex Green",
+  "homepage": "https://github.com/GreenTech-Solutions/Nexus-Graphics-Updated",
+  "dependencies": [ "base >= 2.1.0","space-age >= 2.1.0","! Nexus-Graphics" ],
   "space_travel_required": true,
-  "description": "Graphics for the Nexus Extended Promethium Endgame mod.",
-  "factorio_version": "2.0"
+  "description": "Graphics for Nexus Extended Promethium Endgame (2.1), the mod Nexus-Updated.\nNexus-Graphics by Karu_Kiruna, updated for Factorio 2.1 until the original has a 2.1 release.",
+  "factorio_version": "2.1"
 }
